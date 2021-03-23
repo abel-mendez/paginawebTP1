@@ -1,0 +1,17 @@
+.titleh1 {
+  color: goldenrod;
+}
+.container {
+  width: 50%;
+  margin: auto;
+}
+.img {
+  width: 30%;
+  margin: 0 20px;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
