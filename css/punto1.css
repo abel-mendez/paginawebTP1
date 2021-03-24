@@ -1,9 +1,16 @@
+.main-section {
+  width: 80%;
+  margin: 30px auto;
+}
 .titleh1 {
   color: goldenrod;
+  margin-bottom: 15px;
+  font-size: 30px;
 }
-.container {
-  width: 50%;
-  margin: auto;
+article {
+  padding: 20px;
+  margin-bottom: 40px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 .img {
   width: 30%;
