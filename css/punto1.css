@@ -22,3 +22,7 @@ article {
 .right {
   float: right;
 }
+/* usado para la seccion sobre nosotros */
+article ul li {
+  margin: 25px;
+}
