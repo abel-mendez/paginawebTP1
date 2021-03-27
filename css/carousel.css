@@ -1,6 +1,6 @@
 .title {
   color: goldenrod;
-  margin-top: 50px;
+  margin: 50px 20px 0;
 }
 /* ----------slider----- */
 .slider-container {
@@ -60,7 +60,7 @@
   position: relative;
 }
 .space {
-  width: 30px;
+  width: 55px;
   display: inline-block;
 }
 .carousel:hover .carousel-item {
